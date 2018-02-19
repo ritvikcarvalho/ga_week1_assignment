@@ -1,0 +1,37 @@
+body {
+	font-family:GillSans;
+	font-size:20px;
+	color:white;
+	background:black;
+}
+
+header {
+	text-align:center;
+}
+hr {
+	margin: 0 auto;
+	color:white;
+}
+footer {
+	text-align:center;
+}
+img {
+	margin:20px 0 20px 0
+}
+li {
+	font-size:20px;
+	margin:0 auto;
+}
+
+li.education {
+	font-size:20px;
+}
+li.education2 {
+	font-size:20px;
+}
+li.education3 {
+	font-size:20px;
+}
+li.education4 {
+	font-size:20px;
+}
